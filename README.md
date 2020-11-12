@@ -24,6 +24,6 @@ allprojects {
 
 ```
 dependencies {
-        implementation 'com.github.Trumeet:RedirectStorage:<最新版本號>'
+        implementation 'com.github.Trumeet:RedirectStorage:<最新版本号>'
 }
 ```
