@@ -1,6 +1,6 @@
 # cloudreader-identity
 
-[![](https://jitpack.io/#cloud-reader-jinlian/cloudreader-identity.svg)](https://jitpack.io/#cloud-reader-jinlian/cloudreader-identity)
+[![](https://jitpack.io/v/cloud-reader-jinlian/cloudreader-identity.svg)](https://jitpack.io/#cloud-reader-jinlian/cloudreader-identity)
 
 云识读sdk。
 
@@ -18,7 +18,7 @@ allprojects {
 
 * 查詢最新版本
 
-最新版本：[![](https://jitpack.io/#cloud-reader-jinlian/cloudreader-identity.svg)](https://jitpack.io/#cloud-reader-jinlian/cloudreader-identity)
+最新版本：[![](https://jitpack.io/v/cloud-reader-jinlian/cloudreader-identity.svg)](https://jitpack.io/#cloud-reader-jinlian/cloudreader-identity)
 
 * 添加依賴
 
