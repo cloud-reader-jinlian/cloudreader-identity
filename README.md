@@ -27,3 +27,5 @@ dependencies {
         implementation 'com.github.Trumeet:RedirectStorage:<最新版本号>'
 }
 ```
+# Sdk使用文档
+http://39.106.131.219:4999/web/#/1?page_id=220
