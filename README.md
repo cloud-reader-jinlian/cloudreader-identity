@@ -24,7 +24,7 @@ allprojects {
 
 ```
 dependencies {
-        implementation 'com.github.Trumeet:RedirectStorage:<最新版本号>'
+        implementation 'com.github.cloud-reader-jinlian:cloudreader-identity:v1.0.0'
 }
 ```
 # Sdk使用文档
