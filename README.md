@@ -24,7 +24,7 @@ allprojects {
 
 ```
 dependencies {
-        implementation 'com.github.cloud-reader-jinlian:cloudreader-identity:v10.0.3'
+        implementation 'com.github.cloud-reader-jinlian:cloudreader-identity:v10.2.1'
 }
 ```
 # Sdk使用文档
