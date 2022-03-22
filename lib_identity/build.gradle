@@ -17,5 +17,5 @@ android {
 }
 
 dependencies {
-    implementation files('libs/IDOCR.PubSdk.Android.Std.Device.NFC.Release-10.3.4.jar')
+    implementation files('libs/IDOCR.PubSdk.Android.Std.Device.NFC.Release-10.3.8.jar')
 }
